@@ -39,5 +39,6 @@
 </div>
 
 ###
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=anshhhr&theme=dark)](https://git.io/streak-stats)
+
 ###
