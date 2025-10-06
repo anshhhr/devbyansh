@@ -39,9 +39,6 @@
 </div>
 
 ###
-<p align="center">
   <img src="https://raw.githubusercontent.com/anshhhr/github-contribution-grid-snake/master/output/github-contribution-grid-snake.svg" alt="GitHub Streak" />
-</p>
-
 
 ###
