@@ -39,5 +39,5 @@
 </div>
 
 ###
- [![GitHub Streak](https://streak-stats.demolab.com/?user=anshhhr)](https://git.io/streak-stats)
+[ [![GitHub Streak](https://streak-stats.demolab.com/?user=anshhhr)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/)
 ###
