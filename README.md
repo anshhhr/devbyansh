@@ -40,23 +40,4 @@
 
 ###
  [![GitHub Streak](https://streak-stats.demolab.com/?user=anshhhr)](https://git.io/streak-stats)
-
-
- # Hi there, I'm Anshhhr 👋
-
-<p align="center">
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anshhhr&layout=compact&theme=dark" alt="WakaTime Stats" />
-</p>
-
-<p align="center">
-  <!-- GitHub Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/anshhhr/github-contribution-grid-snake/master/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Badge -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshhhr&theme=dark)](https://git.io/streak-stats)
-</p>
-
 ###
